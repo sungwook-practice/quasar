@@ -50,11 +50,17 @@ import { defineComponent, ref } from 'vue'
 import EssentialLink from 'components/EssentialLink.vue'
 
 const linksList = [
-  {
-    title: 'Docs',
-    caption: 'quasar.dev',
+{
+    title: 'Home',
+    caption: 'Home',
     icon: 'school',
-    to: 'https://quasar.dev'
+    to: '/'
+  },
+  {
+    title: 'Typography',
+    caption: '텍스트 예제',
+    icon: 'school',
+    to: '/typography'
   },
 ]
 
