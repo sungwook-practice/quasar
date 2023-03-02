@@ -62,6 +62,12 @@ const linksList = [
     icon: 'school',
     to: '/typography'
   },
+  {
+    title: 'brand colors',
+    caption: 'color 예제',
+    icon: 'school',
+    to: '/brandcolors'
+  },
 ]
 
 export default defineComponent({
