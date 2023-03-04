@@ -63,7 +63,7 @@ const linksList = [
     to: '/typography'
   },
   {
-    title: 'brand colors',
+    title: 'Brand colors',
     caption: 'color 예제',
     icon: 'school',
     to: '/brandcolors'
@@ -73,6 +73,12 @@ const linksList = [
     caption: 'Flexbox 예제',
     icon: 'school',
     to: '/flexbox'
+  },
+  {
+    title: 'Clone youtube',
+    caption: '유투브 클론',
+    icon: 'school',
+    to: '/cloneyoutube'
   },
 ]
 
