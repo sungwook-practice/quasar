@@ -68,6 +68,12 @@ const linksList = [
     icon: 'school',
     to: '/brandcolors'
   },
+  {
+    title: 'Flex box',
+    caption: 'Flexbox 예제',
+    icon: 'school',
+    to: '/flexbox'
+  },
 ]
 
 export default defineComponent({

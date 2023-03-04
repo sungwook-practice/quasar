@@ -6,7 +6,8 @@ const routes = [
     children: [
       { path: '', component: () => import('pages/IndexPage.vue') },
       { path: 'typography', component: () => import('pages/Typography.vue') },
-      { path: 'brandcolors', component: () => import('pages/BrandColor.vue') }
+      { path: 'brandcolors', component: () => import('pages/BrandColor.vue') },
+      { path: 'flexbox', component: () => import('pages/Flexbox.vue') }
     ]
   },
 
